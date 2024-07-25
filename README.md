@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there 👋
+![Uploading banner.png…]()
 
-<!--
-**ShubhamGadhiya1012/ShubhamGadhiya1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hello World](https://your-image-link-here)  <!-- Replace with your own image link -->
 
-Here are some ideas to get you started:
+Visitor count  
+![Visitor Count](https://profile-counter.glitch.me/{ShubhamGadhiya1012}/count.svg)  <!-- Replace {your-username} with your GitHub username -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+> “Man is made by his belief. As he believes, so he is.” - Bhagavad Gita
+
+Hello! 👋 I'm Shubham, an enthusiastic and motivated individual eager to embark on a career as a full-stack developer. I recently graduated with a degree in Bachelor of Computer Application and am excited to apply my knowledge and skills to real-world projects.
+
+## Get in touch ☕
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  <!-- Replace with your LinkedIn profile URL -->
