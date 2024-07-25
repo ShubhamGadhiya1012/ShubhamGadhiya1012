@@ -26,4 +26,7 @@ Hello! 👋 I'm Shubham, an enthusiastic and motivated individual eager to embar
   <a href="https://www.instagram.com/shubham_patel_2307?igsh=MTBpeHp3dnBzbzN2MA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+   <a href="https://shubham-1012.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+  </a>
 </p>
