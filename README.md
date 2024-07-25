@@ -1,7 +1,7 @@
 # Hey there 👋
 ![Uploading banner.png…]()
 
-![Hello World](https://your-image-link-here)  <!-- Replace with your own image link -->
+![Hello World](https://github.com/ShubhamGadhiya1012/ShubhamGadhiya1012/blob/main/banner.png)  <!-- Replace with your own image link -->
 
 Visitor count  
 ![Visitor Count](https://profile-counter.glitch.me/{ShubhamGadhiya1012}/count.svg)  <!-- Replace {your-username} with your GitHub username -->
